@@ -1,0 +1,6 @@
+testmap1.osm
+ * no bounds element, add it
+ * two partitions, combine them
+ * one poi amenity=cafe, connect it
+ * different road types
+   e.g. filter highway=motorway

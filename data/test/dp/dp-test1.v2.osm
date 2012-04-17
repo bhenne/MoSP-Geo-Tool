@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-179' action='modify' visible='true' lat='52.37999467437986' lon='9.720665607439827' />
+  <node id='-82' action='modify' timestamp='2011-06-13T19:25:11Z' visible='true' lat='52.38056197173041' lon='9.719218815104332' />
+  <node id='-36' timestamp='2011-06-13T19:25:11Z' visible='true' lat='52.38015264436417' lon='9.719837424930663' />
+  <node id='-34' timestamp='2011-06-13T19:25:11Z' visible='true' lat='52.37948638627843' lon='9.720918546651518' />
+  <node id='-32' timestamp='2011-06-13T19:25:11Z' visible='true' lat='52.37935060733116' lon='9.721104768574726' />
+  <node id='-30' timestamp='2011-06-13T19:25:11Z' visible='true' lat='52.37916114763722' lon='9.721285817666736' />
+  <node id='-28' timestamp='2011-06-13T19:25:11Z' visible='true' lat='52.378873798883355' lon='9.721715162656356' />
+  <node id='-26' timestamp='2011-06-13T19:25:11Z' visible='true' lat='52.37879485659059' lon='9.721818619280361' />
+  <node id='-24' timestamp='2011-06-13T19:25:11Z' visible='true' lat='52.37855487115394' lon='9.722247964269982' />
+  <way id='-110' action='modify' timestamp='2011-06-13T19:25:11Z' visible='true'>
+    <nd ref='-82' />
+    <nd ref='-36' />
+    <nd ref='-179' />
+    <nd ref='-34' />
+    <tag k='highway' v='secondary' />
+  </way>
+</osm>

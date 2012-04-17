@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-51749' timestamp='2009-03-18T18:14:06Z' uid='51045' user='Geogast' visible='true' version='7' lat='52.378543' lon='9.718728' />
+  <node id='-51748' timestamp='2010-10-11T09:48:57Z' uid='34953' user='Langlaeufer' visible='true' version='9' lat='52.378682' lon='9.71866' />
+  <node id='-51747' timestamp='2010-11-12T14:14:25Z' uid='93505' user='Nolbelt San' visible='true' version='1' lat='52.378929' lon='9.718825' />
+  <node id='-51746' timestamp='2010-10-11T09:48:52Z' uid='34953' user='Langlaeufer' visible='true' version='9' lat='52.378964' lon='9.718848' />
+  <node id='-51745' timestamp='2010-10-11T09:48:53Z' uid='34953' user='Langlaeufer' visible='true' version='8' lat='52.379015' lon='9.718895' />
+  <node id='-51744' timestamp='2010-10-11T09:48:50Z' uid='34953' user='Langlaeufer' visible='true' version='9' lat='52.379095' lon='9.718946' />
+  <node id='-51743' timestamp='2010-10-11T09:48:48Z' uid='34953' user='Langlaeufer' visible='true' version='9' lat='52.379221' lon='9.718971' />
+  <node id='-51742' timestamp='2010-10-11T09:48:45Z' uid='34953' user='Langlaeufer' visible='true' version='11' lat='52.379397' lon='9.718907' />
+  <way id='-51741' timestamp='2010-11-12T14:14:29Z' uid='93505' user='Nolbelt San' visible='true' version='8'>
+    <nd ref='-51742' />
+    <nd ref='-51743' />
+    <nd ref='-51744' />
+    <nd ref='-51745' />
+    <nd ref='-51746' />
+    <nd ref='-51747' />
+    <nd ref='-51748' />
+    <nd ref='-51749' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Morwegsgasse' />
+    <tag k='oneway' v='yes' />
+    <tag k='postal_code' v='30167' />
+  </way>
+</osm>

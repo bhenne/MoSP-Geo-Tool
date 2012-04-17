@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-36816' timestamp='2009-01-30T20:22:10Z' uid='42191' user='Jano John Akim Franke' visible='true' version='4' lat='52.381659' lon='9.720626' />
+  <node id='-36815' timestamp='2009-01-30T20:17:24Z' uid='42191' user='Jano John Akim Franke' visible='true' version='7' lat='52.381743' lon='9.720032' />
+  <node id='-36814' timestamp='2009-02-13T14:00:37Z' uid='57645' user='KartoGrapHiti' visible='true' version='8' lat='52.381946' lon='9.718986' />
+  <node id='-36813' timestamp='2010-06-20T02:10:58Z' uid='266779' user='lo3mo4' visible='true' version='4' lat='52.380277' lon='9.719951' />
+  <node id='-36812' timestamp='2009-05-28T21:15:09Z' uid='55521' user='Ebbe73' visible='true' version='3' lat='52.3805' lon='9.719795' />
+  <node id='-36811' timestamp='2008-09-25T16:48:43Z' uid='28176' user='Nullkommavier' visible='true' version='1' lat='52.380661' lon='9.719698' />
+  <node id='-36810' timestamp='2008-09-25T16:48:44Z' uid='28176' user='Nullkommavier' visible='true' version='1' lat='52.380755' lon='9.71965' />
+  <node id='-36809' timestamp='2009-01-30T21:46:44Z' uid='42191' user='Jano John Akim Franke' visible='true' version='2' lat='52.380923' lon='9.719636' />
+  <node id='-36808' timestamp='2009-01-28T23:54:40Z' uid='42191' user='Jano John Akim Franke' visible='true' version='4' lat='52.380985' lon='9.719646' />
+  <node id='-36807' timestamp='2009-05-28T21:15:09Z' uid='55521' user='Ebbe73' visible='true' version='4' lat='52.381626' lon='9.719777' />
+  <node id='-36806' timestamp='2008-11-28T20:20:32Z' uid='57645' user='KartoGrapHiti' visible='true' version='3' lat='52.38188' lon='9.719315' />
+  <way id='-36805' timestamp='2009-05-28T21:16:06Z' uid='55521' user='Ebbe73' visible='true' version='8'>
+    <nd ref='-36814' />
+    <nd ref='-36806' />
+    <nd ref='-36815' />
+    <nd ref='-36816' />
+    <tag k='bicycle' v='yes' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='-36804' timestamp='2009-05-28T21:15:48Z' uid='55521' user='Ebbe73' visible='true' version='7'>
+    <nd ref='-36806' />
+    <nd ref='-36807' />
+    <nd ref='-36808' />
+    <nd ref='-36809' />
+    <nd ref='-36810' />
+    <nd ref='-36811' />
+    <nd ref='-36812' />
+    <nd ref='-36813' />
+    <tag k='highway' v='footway' />
+  </way>
+</osm>

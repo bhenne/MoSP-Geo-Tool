@@ -1,0 +1,39 @@
+The Mobile Security & Privacy Simulator: Geo Tool has been developed
+using Python 2.7 in Ubuntu and Fedora Linux.
+
+Dependencies:
+ * Python modules
+   * py-gtk2
+   * PIL
+   * bintrees
+   * Rtree
+   * pyproj
+ * libs
+   * gtk2
+   * libspatialindex
+   * libproj.4
+
+Installation on Linux:
+ * install gtk2 via repositories
+ * install python-gtk2 bindings via repositories
+ * install libproj.4 for pyproj via repositories
+ * install spatialindex for Rtree
+   wget http://download.osgeo.org/libspatialindex/spatialindex-src-1.7.0.tar.gz
+   tar xzf spatialindex-src-1.7.0.tar.gz
+   cd spatialindex-src-1.7.0
+   ./configure --prefix=$VIRTUAL_ENV
+   make
+   make install
+ * install via pip
+   pyproj
+   bintrees
+   Rtree
+   PIL
+ * imposm parser may need: build-essential python-devel protobuf-compiler libprotobuf-dev
+   see http://dev.omniscale.net/imposm.parser/ (pbf support)
+
+To start the tool, LD_LIBRARY_PATH must point to libspatialindex.so, see start.sh.
+
+If using virtualenv, PIL and gtk2 may require not using no-site-packages option,
+because they may not be easy installable via pip or similar. Everything else
+works fine and easy in a virtualenv.

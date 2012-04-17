@@ -1,0 +1,19 @@
+Mobile Security & Privacy Simulator: Geo Tool
+
+A geo data tool to modify OSM XML data for the MoSP simulator.
+ * remove road network partitioning, that may harm routing
+   partitions exist in the real world or may be created by
+   mistakes of OSM contributors
+ * simplify the road network (reduce number of nodes by generalization)
+   to shrink routing information/size of routing table
+ * connect POI in OSM data with the road network to enable
+   a direct routing to these nodes in simulation
+
+GUI based on GTK2 Python bindings, geo calculation on proj.4
+This tool was implemented within the bachelor thesis of
+Carsten Protsch at the Distributed Computing & Security Group
+at the Leibniz Universität Hannover, Germany. The thesis has been
+advised by Benjamin Henne and Christian Szongott.
+
+http://www.dcsec.uni-hannover.de/
+henne@dcsec.uni-hannover.de

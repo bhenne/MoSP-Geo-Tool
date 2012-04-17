@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-20' action='modify' timestamp='2011-06-13T19:25:11Z' visible='true' lat='52.37972618349767' lon='9.718489613704834' />
+  <node id='-18' action='modify' timestamp='2011-06-13T19:25:11Z' visible='true' lat='52.37927887109206' lon='9.71839328711972' />
+  <node id='-16' action='modify' timestamp='2011-06-13T19:25:11Z' visible='true' lat='52.3789222004857' lon='9.71855941682317' />
+  <node id='-14' action='modify' timestamp='2011-06-13T19:25:11Z' visible='true' lat='52.37879329611923' lon='9.719573151586415' />
+  <node id='-12' action='modify' timestamp='2011-06-13T19:25:11Z' visible='true' lat='52.379011798287614' lon='9.720422873746449' />
+  <node id='-10' timestamp='2011-06-13T19:25:11Z' visible='true' lat='52.37948638627843' lon='9.720918546651518' />
+  <node id='-8' timestamp='2011-06-13T19:25:11Z' visible='true' lat='52.38015264436417' lon='9.719837424930663' />
+  <node id='-6' action='modify' timestamp='2011-06-13T19:25:11Z' visible='true' lat='52.380136051625975' lon='9.719361537277694' />
+  <node id='-4' action='modify' timestamp='2011-06-28T18:43:30Z' visible='true' lat='52.37998499429873' lon='9.720459453189417' />
+  <way id='-22' action='modify' timestamp='2011-06-13T19:25:11Z' visible='true'>
+    <nd ref='-6' />
+    <nd ref='-8' />
+    <nd ref='-4' />
+    <nd ref='-10' />
+    <nd ref='-12' />
+    <nd ref='-14' />
+    <nd ref='-16' />
+    <nd ref='-18' />
+    <nd ref='-20' />
+    <nd ref='-6' />
+    <tag k='highway' v='secondary' />
+  </way>
+</osm>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-36964' action='modify' timestamp='2009-02-13T14:00:37Z' uid='57645' user='KartoGrapHiti' visible='true' version='8' lat='52.381823704728234' lon='9.719056713214375' />
+  <node id='-36960' timestamp='2009-01-30T20:22:10Z' uid='42191' user='Jano John Akim Franke' visible='true' version='4' lat='52.381659' lon='9.720626' />
+  <node id='-36958' timestamp='2010-06-20T02:10:58Z' uid='266779' user='lo3mo4' visible='true' version='4' lat='52.380277' lon='9.719951' />
+  <way id='-36968' timestamp='2009-05-28T21:16:06Z' uid='55521' user='Ebbe73' visible='true' version='8'>
+    <nd ref='-36964' />
+    <nd ref='-36960' />
+    <tag k='bicycle' v='yes' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='-36966' action='modify' timestamp='2009-05-28T21:15:48Z' uid='55521' user='Ebbe73' visible='true'>
+    <nd ref='-36964' />
+    <nd ref='-36958' />
+    <tag k='highway' v='footway' />
+  </way>
+</osm>

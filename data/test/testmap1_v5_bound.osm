@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <bound box="-90,-180,90,180" origin="http://www.openstreetmap.org/api/0.6" />
+  <node id='-96617' visible='true' lat='52.378485583607926' lon='9.722472441861804' />
+  <node id='-96615' visible='true' lat='52.37842101699581' lon='9.722330059062278' />
+  <node id='-96613' visible='true' lat='52.37840528921702' lon='9.722144283409559' />
+  <node id='-96607' visible='true' lat='52.37862118304973' lon='9.719087364406628' />
+  <node id='-96605' visible='true' lat='52.37864960240315' lon='9.719402907109844' />
+  <node id='-96603' visible='true' lat='52.3786748640353' lon='9.719754659631459' />
+  <node id='-96601' visible='true' lat='52.3786748640353' lon='9.720075375165875' />
+  <node id='-96599' visible='true' lat='52.37864644469812' lon='9.720654732260305' />
+  <node id='-96597' visible='true' lat='52.37859907909552' lon='9.721203052367532' />
+  <node id='-96595' visible='true' lat='52.37852645173954' lon='9.721896211748366' />
+  <node id='-96593' visible='true' lat='52.37855487115394' lon='9.722247964269982' />
+  <node id='-96591' visible='true' lat='52.37879485659059' lon='9.721818619280361' />
+  <node id='-96589' visible='true' lat='52.378873798883355' lon='9.721715162656356' />
+  <node id='-96587' visible='true' lat='52.37916114763722' lon='9.721285817666736' />
+  <node id='-96585' visible='true' lat='52.37935060733116' lon='9.721104768574726' />
+  <node id='-96583' visible='true' lat='52.37948638627843' lon='9.720918546651518' />
+  <node id='-96581' visible='true' lat='52.38015264436417' lon='9.719837424930663' />
+  <node id='-96575' visible='true' lat='52.3810187016957' lon='9.718855787099459' />
+  <node id='-96573' visible='true' lat='52.381013851720894' lon='9.719091502671592' />
+  <node id='-96571' visible='true' lat='52.381776907871185' lon='9.719239818087765' />
+  <node id='-96570' visible='true' lat='52.3817930741724' lon='9.718998805536483' />
+  <node id='-96562' visible='true' lat='52.3827851241408' lon='9.7178324762935'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Sprengelstube' />
+  </node>
+  <node id='-96558' visible='true' lat='52.38219060171204' lon='9.716473165504262' />
+  <node id='-96556' visible='true' lat='52.38220405194904' lon='9.716513846304128' />
+  <node id='-96554' visible='true' lat='52.382196809514234' lon='9.716649448970342' />
+  <node id='-96552' visible='true' lat='52.38217508220272' lon='9.716924044369433' />
+  <node id='-96550' visible='true' lat='52.38213783535811' lon='9.717405433834498' />
+  <node id='-96548' visible='true' lat='52.38207265330443' lon='9.71813599319874' />
+  <node id='-96546' visible='true' lat='52.38204678738344' lon='9.718471609797621' />
+  <node id='-96544' visible='true' lat='52.38202919854851' lon='9.71872586479678' />
+  <node id='-96542' visible='true' lat='52.382011609706566' lon='9.718880112829599' />
+  <node id='-96540' visible='true' lat='52.38199919404923' lon='9.718914013496153' />
+  <node id='-96538' visible='true' lat='52.38198470911124' lon='9.718939438996067' />
+  <node id='-96536' visible='true' lat='52.381972293446324' lon='9.718959779396' />
+  <node id='-96534' visible='true' lat='52.381951600663704' lon='9.718973339662622' />
+  <node id='-96532' visible='true' lat='52.381921596111695' lon='9.718978424762605' />
+  <node id='-96530' visible='true' lat='52.38176679388125' lon='9.718942882032513' />
+  <node id='-96528' visible='true' lat='52.38134242626025' lon='9.71887335918118' />
+  <node id='-96526' visible='true' lat='52.380895825454324' lon='9.71880052571788' />
+  <node id='-96524' visible='true' lat='52.38081701307848' lon='9.718774040822137' />
+  <node id='-96520' visible='true' lat='52.38214467971065' lon='9.716542688355592' />
+  <node id='-96518' visible='true' lat='52.38207395266239' lon='9.716666836304396' />
+  <node id='-96516' visible='true' lat='52.381990595638634' lon='9.716824090372885' />
+  <node id='-96514' visible='true' lat='52.38176325750126' lon='9.717126183714978' />
+  <node id='-96512' visible='true' lat='52.381563704171526' lon='9.717515180621241' />
+  <node id='-96510' visible='true' lat='52.3814449821424' lon='9.71774692345901' />
+  <node id='-96508' visible='true' lat='52.381268161507236' lon='9.718036602006224' />
+  <node id='-96506' visible='true' lat='52.38119743305491' lon='9.71814833516015' />
+  <node id='-96504' visible='true' lat='52.38110649630685' lon='9.718297312698718' />
+  <node id='-96502' visible='true' lat='52.380967564802354' lon='9.71852077900657' />
+  <node id='-96501' visible='true' lat='52.380831158899895' lon='9.718740107049461' />
+  <way id='-96614' visible='true'>
+    <nd ref='-96593' />
+    <nd ref='-96613' />
+    <nd ref='-96615' />
+    <nd ref='-96617' />
+    <nd ref='-96593' />
+  </way>
+  <way id='-96610' visible='true'>
+    <nd ref='-96593' />
+    <nd ref='-96595' />
+    <nd ref='-96597' />
+    <nd ref='-96599' />
+    <nd ref='-96601' />
+    <nd ref='-96603' />
+    <nd ref='-96605' />
+    <nd ref='-96607' />
+    <tag k='highway' v='motorway' />
+  </way>
+  <way id='-96582' visible='true'>
+    <nd ref='-96524' />
+    <nd ref='-96581' />
+    <nd ref='-96583' />
+    <nd ref='-96585' />
+    <nd ref='-96587' />
+    <nd ref='-96589' />
+    <nd ref='-96591' />
+    <nd ref='-96593' />
+    <tag k='highway' v='secondary' />
+  </way>
+  <way id='-96572' visible='true'>
+    <nd ref='-96570' />
+    <nd ref='-96571' />
+    <nd ref='-96573' />
+    <nd ref='-96575' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='-96503' visible='true'>
+    <nd ref='-96520' />
+    <nd ref='-96558' />
+    <nd ref='-96556' />
+    <nd ref='-96554' />
+    <nd ref='-96552' />
+    <nd ref='-96550' />
+    <nd ref='-96548' />
+    <nd ref='-96546' />
+    <nd ref='-96544' />
+    <nd ref='-96542' />
+    <nd ref='-96540' />
+    <nd ref='-96538' />
+    <nd ref='-96536' />
+    <nd ref='-96534' />
+    <nd ref='-96532' />
+    <nd ref='-96530' />
+    <nd ref='-96528' />
+    <nd ref='-96526' />
+    <nd ref='-96524' />
+    <nd ref='-96501' />
+    <nd ref='-96502' />
+    <nd ref='-96504' />
+    <nd ref='-96506' />
+    <nd ref='-96508' />
+    <nd ref='-96510' />
+    <nd ref='-96512' />
+    <nd ref='-96514' />
+    <nd ref='-96516' />
+    <nd ref='-96518' />
+    <nd ref='-96520' />
+    <tag k='highway' v='tertiary' />
+  </way>
+</osm>
